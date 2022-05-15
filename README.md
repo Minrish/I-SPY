@@ -1,7 +1,10 @@
 # I-SPY
 Final Project for PSU CMPSC475: An Object Identifying Application Using CoreML 
 
-Final Project IV: Completed App - I Spy
+Description
+
+    Final Project IV: Completed App - I Spy
+
      *This is the final submission for the final project, changed made since the prototype submission includes: 
         I.   Added NavigationView for better flow of the app; no longer sitting on home screen for all activities.
         II.  Segmented ContentView to ContentView (Navigation Control), CameraModeView (Camera-Mode specific view), 
