@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "irregulargradient",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/joogps/IrregularGradient",
+      "state" : {
+        "branch" : "main",
+        "revision" : "0e61dddde5d42806fab3b6254217fe05a4c551aa"
+      }
+    }
+  ],
+  "version" : 2
+}
